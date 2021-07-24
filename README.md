@@ -5,7 +5,7 @@
 Download the zip file according to your os. Linux, Android and iOS is unavailable.
 
 #### Step 2:
-Unzip the file and click on open the game! A How-To-Play pdf file is included for help.
+Unzip the file and click on open the game! A `how_to_play.pdf` file is included for help.
 
 ## Source Code
 
